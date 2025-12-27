@@ -37,12 +37,18 @@ Amaç; ölçeklenebilir, okunabilir ve gerçek projelere uygun bir frontend mima
 - Modern frontend mimarisi
 
 ## Kurulum
-```bash
+
 git clone https://github.com/bekirsglm/hotels
 cd hotels
 npm install
 npm run dev
 
 
-## EKRAN GÖRÜNTÜSÜ
-![EkranKayd2025-12-27165718-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ae4dbf97-b5fc-479c-ab7d-5784e1a98486)
+# EKRAN GÖRÜNTÜSÜ
+
+![EkranKayd2025-12-27165718-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dc165f8e-3652-491c-aba9-31d1041dcf09)
+
+
+
+
+
